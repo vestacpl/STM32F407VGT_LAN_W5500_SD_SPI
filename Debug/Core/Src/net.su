@@ -1,0 +1,2 @@
+net.c:15:6:Net_init	8	static
+net.c:22:6:Net_Poll	8	static

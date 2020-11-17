@@ -1,0 +1,5 @@
+httpd.c:60:6:Http_Request	40	static
+httpd.c:148:6:Http_Send_One	32	static
+httpd.c:217:6:Http_Send_First	32	static
+httpd.c:276:6:Http_Send_Middle	32	static
+httpd.c:319:6:Http_Send_Last	32	static

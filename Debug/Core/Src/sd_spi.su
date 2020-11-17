@@ -1,0 +1,14 @@
+sd_spi.c:24:9:SD_SPI_Init	24	static
+sd_spi.c:82:9:SPIx_WriteRead	32	static
+sd_spi.c:94:6:SPI_SendByte	16	static
+sd_spi.c:101:9:SPI_ReceiveByte	16	static
+sd_spi.c:109:6:SPI_Release	8	static
+sd_spi.c:116:9:SD_SPI_WaitingForReadiness	16	static
+sd_spi.c:133:9:SD_SPI_Cmd	24	static
+sd_spi.c:175:9:SD_SPI_Read_Block	32	static
+sd_spi.c:200:9:SD_SPI_Write_Block	24	static
+sd_spi.c:229:9:SD_SPI_MountLogicalDrive	8	static
+sd_spi.c:239:9:SD_SPI_ReadFile	16	static
+sd_spi.c:252:9:SD_SPI_ReadLongFile	24	static
+sd_spi.c:283:9:SD_SPI_WriteFile	40	static
+sd_spi.c:344:9:SD_Error_Handler	16	static
